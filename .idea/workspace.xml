@@ -4,7 +4,7 @@
     <list default="true" id="35d0cb82-dbce-4dd2-aa49-842d36b356b6" name="Default" comment="" />
     <ignored path="IRC Bot.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/IRC Bot.py" changelist="35d0cb82-dbce-4dd2-aa49-842d36b356b6" time="1365972994657" ignored="false" />
+    <file path="/IRC Bot.py" changelist="35d0cb82-dbce-4dd2-aa49-842d36b356b6" time="1365974533118" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
       <file leaf-file-name="IRC Bot.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IRC Bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.13461539">
+            <state line="30" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.75576925">
               <folding>
                 <element signature="e#44#57#0" expanded="true" />
               </folding>
@@ -352,7 +352,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IRC Bot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="365" selection-end="365" vertical-scroll-proportion="0.13461539">
+        <state line="30" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.75576925">
           <folding>
             <element signature="e#44#57#0" expanded="true" />
           </folding>
