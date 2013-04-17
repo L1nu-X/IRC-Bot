@@ -47,7 +47,7 @@ while 1:
             s.send("PONG %s\r\n" % line[1])
         if(line[1]=='PRIVMSG' and line[3] == ':.lookup'):
             if len(line) > 4:
-                html = urllib.urlopen("http://dic.naver.com/search.nhn?query=%s" % (line[4])).read()
+                html = urllib.urlopen("http://dic.naver.com/search.nhn?query=%s" % (line[4:])).read()
                 soup = bs4.BeautifulSoup(html)
                 try:
                     s.send("PRIVMSG %s :%s\r\n" %(line[2], unicode(soup.find_all("dd")[1].get_text()).encode('utf8').strip()))
